@@ -4,5 +4,9 @@
 #### header 4
 ###### header 6
 regular text
+```
+print(Hello World!")
+```
+
 
 ![Image of scubatocat](https://octodex.github.com/images/scubatocat.png)
